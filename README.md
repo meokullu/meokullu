@@ -18,6 +18,6 @@ I am Enes from Istanbul, Turkey. I am computer engineer.
 - [En] ** Language usage effect on GNI, BOT, and CAB
 
 ## Contact
-(Medium)[https://medium.com/@enesokullu]
-(LinkedIn)[https://www.linkedin.com/in/muhammed-enes-okullu-520a8b79]
-(Twitter)[https://twitter.com/EnesOkullu]
+* [Medium](https://medium.com/@enesokullu)
+* [LinkedIn](https://www.linkedin.com/in/muhammed-enes-okullu-520a8b79)
+* [Twitter](https://twitter.com/EnesOkullu)
