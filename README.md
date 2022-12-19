@@ -1,6 +1,13 @@
 # Enes Okullu
 I am Enes from Istanbul, Turkey. I am computer engineer.
 
+## Skills
+C#, SQL
+
+## Projects
+
+### mandal
+
 ## My Articles (English only)
 
 - [[LinkedIn](https://www.linkedin.com/pulse/weather-gdp-relation-muhammed-enes-okullu)][[Medium](https://medium.com/@enesokullu/weather-gdp-relation-3c7e9b536c6c)] Weather-GDP relation
