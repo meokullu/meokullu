@@ -22,6 +22,5 @@ C#, SQL
 - <sub>Chance of meeting at same point with different fuzzy choosing at previous time.</sub>
 
 ## Contact.
-* [Medium](https://medium.com/@enesokullu)
 * [LinkedIn](https://www.linkedin.com/in/muhammed-enes-okullu-520a8b79)
 * [Twitter](https://twitter.com/EnesOkullu)
