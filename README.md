@@ -2,7 +2,7 @@
 I am Enes Okullu from Istanbul, Turkey. I am computer engineer.
 
 ## Skills
-C#, SQL
+C#, SQL, ASP.NET
 
 ## Projects
 
