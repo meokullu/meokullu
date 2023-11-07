@@ -36,3 +36,6 @@ C#, SQL, ASP.NET
 ### Contact.
 * [LinkedIn](https://www.linkedin.com/in/muhammed-enes-okullu-520a8b79)
 * [Twitter](https://twitter.com/EnesOkullu)
+
+### Stats, illusion numbers
+[![meokulu's github stats](https://github-readme-stats.vercel.app/api?username=meokullu\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/meokullu)
