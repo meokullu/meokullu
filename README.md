@@ -18,7 +18,7 @@ I publish some of works on Github and publish it as NuGet packages on NuGet Gall
 | [PreFill](https://www.nuget.org/packages/PreFill/) | [![PreFill](https://img.shields.io/nuget/v/PreFill.svg)](https://www.nuget.org/packages/PreFill/) | [![PreFill](https://img.shields.io/nuget/dt/PreFill.svg)](https://www.nuget.org/packages/PreFill/)
 | [SubtitleParser](https://www.nuget.org/packages/SubtitleParser/) | [![SubtitleParser](https://img.shields.io/nuget/v/SubtitleParser.svg)](https://www.nuget.org/packages/SubtitleParser/) | [![SubtitleParser](https://img.shields.io/nuget/dt/SubtitleParser.svg)](https://www.nuget.org/packages/SubtitleParser/)
 
-:: [See more detailed list](https://github.com/meokullu/meokullu/blob/main/Nuget.md)
+:cowboy_hat_face: [See more detailed list](https://github.com/meokullu/meokullu/blob/main/Nuget.md)
 
 ### Skills
 C#, SQL, ASP.NET
