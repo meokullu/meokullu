@@ -67,10 +67,12 @@
 | Branches         | [![GitHub branches](https://badgen.net/github/branches/meokullu/PreFill)](https://github.com/meokullu/PreFill/)
 
 ### SubtitleParser
+
+| Data             | Value                                                    |
 | ---------------- | -------------------------------------------------------- |
 | Repo link        | [SubtitleParser](https://github.com/meokullu/SubtitleParser) |
 | Last commit      | [![GitHub latest commit](https://badgen.net/github/last-commit/meokullu/SubtitleParser)](https://GitHub.com/meokullu/SubtitleParser/commit/)
-| Commit since     | [![GitHub commits](https://img.shields.io/github/commits-since/meokullu/SubtitleParser/v1.0.0)](https://GitHub.com/meokullu/SubtitleParser/commit/)
+| Commit since     | [![GitHub commits](https://img.shields.io/github/commits-since/meokullu/SubtitleParser/v2.0.1)](https://GitHub.com/meokullu/SubtitleParser/commit/)
 | Release download | [![Github all releases](https://img.shields.io/github/downloads/meokullu/SubtitleParser/total.svg)](https://GitHub.com/meokullu/SubtitleParser/releases/)
 | Contributers     | [![GitHub contributors](https://img.shields.io/github/contributors/meokullu/SubtitleParser.svg)](https://GitHub.com/meokullu/SubtitleParser/graphs/contributors/)
 | Issues           | [![GitHub issues](https://img.shields.io/github/issues/meokullu/SubtitleParser.svg)](https://GitHub.com/meokullu/SubtitleParser/issues/)
