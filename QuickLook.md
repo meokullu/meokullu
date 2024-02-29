@@ -27,6 +27,19 @@
 | Licence          | [![GitHub license](https://img.shields.io/github/license/meokullu/ColorizeNumber)](https://github.com/meokullu/ColorizeNumber/blob/master/LICENSE)
 | Branches         | [![GitHub branches](https://badgen.net/github/branches/meokullu/ColorizeNumber)](https://github.com/meokullu/ColorizeNumber/)
 
+### EasySaver
+
+| Data             | Value                                                    |
+| ---------------- | -------------------------------------------------------- |
+| Repo link        | [EasySaver](https://github.com/meokullu/EasySaver) |
+| Last commit      | [![GitHub latest commit](https://badgen.net/github/last-commit/meokullu/EasySaver)](https://GitHub.com/meokullu/EasySaver/commit/)
+| Commit since     | [![GitHub commits](https://img.shields.io/github/commits-since/meokullu/EasySaver/v1.0.0)](https://GitHub.com/meokullu/EasySaver/commit/)
+| Release download | [![Github all releases](https://img.shields.io/github/downloads/meokullu/EasySaver/total.svg)](https://GitHub.com/meokullu/EasySaver/releases/)
+| Contributers     | [![GitHub contributors](https://img.shields.io/github/contributors/meokullu/EasySaver.svg)](https://GitHub.com/meokullu/EasySaver/graphs/contributors/)
+| Issues           | [![GitHub issues](https://img.shields.io/github/issues/meokullu/EasySaver.svg)](https://GitHub.com/meokullu/EasySaver/issues/)
+| Licence          | [![GitHub license](https://img.shields.io/github/license/meokullu/EasySaver)](https://github.com/meokullu/EasySaver/blob/master/LICENSE)
+| Branches         | [![GitHub branches](https://badgen.net/github/branches/meokullu/EasySaver)](https://github.com/meokullu/EasySaver/)
+
 ### HelpConsole
 
 | Data             | Value                                                    |
