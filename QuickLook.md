@@ -40,6 +40,19 @@
 | Licence          | [![GitHub license](https://img.shields.io/github/license/meokullu/EasySaver)](https://github.com/meokullu/EasySaver/blob/master/LICENSE)
 | Branches         | [![GitHub branches](https://badgen.net/github/branches/meokullu/EasySaver)](https://github.com/meokullu/EasySaver/)
 
+### GetScaleIndex
+
+| Data             | Value                                                    |
+| ---------------- | -------------------------------------------------------- |
+| Repo link        | [GetScaleIndex](https://github.com/meokullu/GetScaleIndex) |
+| Last commit      | [![GitHub latest commit](https://badgen.net/github/last-commit/meokullu/GetScaleIndex)](https://GitHub.com/meokullu/GetScaleIndex/commit/)
+| Commit since     | [![GitHub commits](https://img.shields.io/github/commits-since/meokullu/GetScaleIndex/v1.0.0-alpha)](https://GitHub.com/meokullu/GetScaleIndex/commit/)
+| Release download | [![Github all releases](https://img.shields.io/github/downloads/meokullu/GetScaleIndex/total.svg)](https://GitHub.com/meokullu/GetScaleIndex/releases/)
+| Contributers     | [![GitHub contributors](https://img.shields.io/github/contributors/meokullu/GetScaleIndex.svg)](https://GitHub.com/meokullu/GetScaleIndex/graphs/contributors/)
+| Issues           | [![GitHub issues](https://img.shields.io/github/issues/meokullu/GetScaleIndex.svg)](https://GitHub.com/meokullu/GetScaleIndex/issues/)
+| Licence          | [![GitHub license](https://img.shields.io/github/license/meokullu/GetScaleIndex)](https://github.com/meokullu/GetScaleIndex/blob/master/LICENSE)
+| Branches         | [![GitHub branches](https://badgen.net/github/branches/meokullu/GetScaleIndex)](https://github.com/meokullu/GetScaleIndex/)
+
 ### HelpConsole
 
 | Data             | Value                                                    |
@@ -53,6 +66,19 @@
 | Licence          | [![GitHub license](https://img.shields.io/github/license/meokullu/HelpConsole)](https://github.com/meokullu/HelpConsole/blob/master/LICENSE)
 | Branches         | [![GitHub branches](https://badgen.net/github/branches/meokullu/HelpConsole)](https://github.com/meokullu/HelpConsole/)
 
+### MarkBitmap
+
+| Data             | Value                                                    |
+| ---------------- | -------------------------------------------------------- |
+| Repo link        | [MarkBitmap](https://github.com/meokullu/MarkBitmap) |
+| Last commit      | [![GitHub latest commit](https://badgen.net/github/last-commit/meokullu/MarkBitmap)](https://GitHub.com/meokullu/MarkBitmap/commit/)
+| Commit since     | [![GitHub commits](https://img.shields.io/github/commits-since/meokullu/MarkBitmap/v1.0.0-rc)](https://GitHub.com/meokullu/MarkBitmap/commit/)
+| Release download | [![Github all releases](https://img.shields.io/github/downloads/meokullu/MarkBitmap/total.svg)](https://GitHub.com/meokullu/MarkBitmap/releases/)
+| Contributers     | [![GitHub contributors](https://img.shields.io/github/contributors/meokullu/MarkBitmap.svg)](https://GitHub.com/meokullu/MarkBitmap/graphs/contributors/)
+| Issues           | [![GitHub issues](https://img.shields.io/github/issues/meokullu/MarkBitmap.svg)](https://GitHub.com/meokullu/MarkBitmap/issues/)
+| Licence          | [![GitHub license](https://img.shields.io/github/license/meokullu/MarkBitmap)](https://github.com/meokullu/MarkBitmap/blob/master/LICENSE)
+| Branches         | [![GitHub branches](https://badgen.net/github/branches/meokullu/MarkBitmap)](https://github.com/meokullu/MarkBitmap/)
+
 ### MathematicalConstants
 
 | Data             | Value                                                    |
@@ -65,6 +91,19 @@
 | Issues           | [![GitHub issues](https://img.shields.io/github/issues/meokullu/MathematicalConstants.svg)](https://GitHub.com/meokullu/MathematicalConstants/issues/)
 | Licence          | [![GitHub license](https://img.shields.io/github/license/meokullu/MathematicalConstants)](https://github.com/meokullu/MathematicalConstants/blob/master/LICENSE)
 | Branches         | [![GitHub branches](https://badgen.net/github/branches/meokullu/MathematicalConstants)](https://github.com/meokullu/MathematicalConstants/)
+
+### NuGetVersionChecker
+
+| Data             | Value                                                    |
+| ---------------- | -------------------------------------------------------- |
+| Repo link        | [NuGetVersionChecker](https://github.com/meokullu/NuGetVersionChecker) |
+| Last commit      | [![GitHub latest commit](https://badgen.net/github/last-commit/meokullu/NuGetVersionChecker)](https://GitHub.com/meokullu/NuGetVersionChecker/commit/)
+| Commit since     | [![GitHub commits](https://img.shields.io/github/commits-since/meokullu/NuGetVersionChecker/v1.0.0)](https://GitHub.com/meokullu/NuGetVersionChecker/commit/)
+| Release download | [![Github all releases](https://img.shields.io/github/downloads/meokullu/NuGetVersionChecker/total.svg)](https://GitHub.com/meokullu/NuGetVersionChecker/releases/)
+| Contributers     | [![GitHub contributors](https://img.shields.io/github/contributors/meokullu/NuGetVersionChecker.svg)](https://GitHub.com/meokullu/NuGetVersionChecker/graphs/contributors/)
+| Issues           | [![GitHub issues](https://img.shields.io/github/issues/meokullu/NuGetVersionChecker.svg)](https://GitHub.com/meokullu/NuGetVersionChecker/issues/)
+| Licence          | [![GitHub license](https://img.shields.io/github/license/meokullu/NuGetVersionChecker)](https://github.com/meokullu/NuGetVersionChecker/blob/master/LICENSE)
+| Branches         | [![GitHub branches](https://badgen.net/github/branches/meokullu/NuGetVersionChecker)](https://github.com/meokullu/NuGetVersionChecker/)
 
 ### PreFill
 
