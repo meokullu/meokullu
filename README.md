@@ -1,10 +1,10 @@
 ### Enes Okullu
 Enes Okullu, computer engineer from Istanbul, Turkey. I am interested in both hardware and software. I write articles about different fields. I temporararily shut down my entreprenur 'mandal' and currenly looking for a job in US, UK, Denmark or Netherlands.
 
-I publish some of works on Github and publish it as NuGet packages on NuGet Gallery.
+I publish some of works on GitGub and publish it as NuGet packages on NuGet Gallery.
 
 
-| Repo | NuGet package | Nuget downloads |
+| Repo | NuGet package | NuGet downloads |
 | ------- | ------------ | ----------------- |
 | [CalculateETA](https://www.github.com/meokullu/CalculateETA/) | [![CalculateETA](https://img.shields.io/nuget/v/CalculateETA.svg)](https://www.nuget.org/packages/CalculateETA/) | [![CalculateETA](https://img.shields.io/nuget/dt/CalculateETA.svg)](https://www.nuget.org/packages/CalculateETA/)
 | [ColorizeNumber](https://www.github.com/meokullu/ColorizeNumber/) | [![ColorizeNumber](https://img.shields.io/nuget/v/ColorizeNumber.svg)](https://www.nuget.org/packages/ColorizeNumber/) | [![ColorizeNumber](https://img.shields.io/nuget/dt/ColorizeNumber.svg)](https://www.nuget.org/packages/ColorizeNumber/)
